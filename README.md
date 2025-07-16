@@ -26,23 +26,13 @@ A **lightweight, intelligent Discord bot** built with Python for seamless AI con
 git clone https://github.com/Rustam-Singh-Bhadouriya/Chatty-DIscord-Bot.git
 cd Chatty-DIscord-Bot
 ```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
+### 2️⃣ Place Your API and Tokin
+``` bash
+tokin = "PLACE YOUR BOT TOKIN AT HERE"
+API = "PLACE YOUR GEMINI API"
 ```
 
-### 3️⃣ Configure Environment Variables
-
-Create a `.env` file in the root folder and add:
-
-```env
-DISCORD_TOKEN=your_discord_bot_token
-GEMINI_API_KEY=your_gemini_api_key
-```
-
-> ⚠️ Replace with your actual bot token and Gemini API key.
+⚠️ Replace with your actual bot token and Gemini API key.
 
 ---
 
@@ -63,8 +53,7 @@ Invite the bot to your server using your OAuth2 URL.
 ```
 Chatty-DIscord-Bot/
 ├── bot.py             # Main bot runner
-├── cogs/              # Command and event cogs
-├── requirements.txt   # Dependencies
+├── generate.py              # Genrate response
 └── README.md          # Project documentation
 ```
 
@@ -92,7 +81,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙌 Credits
 
-Developed with ❤️ by **Rustam Singh Bhadouriya** for building practical AI projects and learning Discord bot development.
+Developed with ❤️ by **Rustam Singh Bhadouriya** for practicle AI projects and Discord bot Developer.
 
 ---
 
