@@ -1,6 +1,6 @@
 # 🤖 Chatty Discord Bot
 
-A **lightweight, intelligent Discord bot** built with Python for seamless AI conversation, music playback, and utilities, designed to be easy to understand and extend for learning, personal use, and building your Jarvis-like assistant.
+A **lightweight, intelligent Discord bot** built with Python for seamless AI conversation and utilities, designed to be easy to understand and extend for learning, personal use, and building your Jarvis-like assistant.
 
 ![License](https://img.shields.io/github/license/Rustam-Singh-Bhadouriya/Chatty-DIscord-Bot?style=flat)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
