@@ -1,2 +1,2 @@
-# Chatty-DIscord-Bot
-Chatty The Discord Chatbot
+# Chatty The Discord Bot 🤖
+<p> **Discord Chatting Bot with Gemini API Key** </p>
