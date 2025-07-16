@@ -10,11 +10,11 @@ A **lightweight, intelligent Discord bot** built with Python for seamless AI con
 
 ## ✨ Features
 
-✅ Chat with AI using Gemini API (easily swappable with GPT or other LLM APIs).
-✅ Play music in your Discord voice channels.
-✅ Utility commands for moderation and fun.
-✅ Clean, modular Python code for easy editing and extension.
-✅ Perfect for learning Discord bot development while building your AI projects.
+- ✅ Chat with AI using Gemini API (easily swappable with GPT or other LLM APIs).
+- ✅ Play music in your Discord voice channels.
+- ✅ Utility commands for moderation and fun.
+- ✅ Clean, modular Python code for easy editing and extension.
+- ✅ Perfect for learning Discord bot development while building your AI projects.
 
 ---
 
