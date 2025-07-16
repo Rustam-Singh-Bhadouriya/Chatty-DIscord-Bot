@@ -3,4 +3,4 @@
 
 ----
 - Gemini API key
--<a href="https://www.aistudio.google.com">aistudio</a>
+- <a href="https://www.aistudio.google.com">aistudio</a>
